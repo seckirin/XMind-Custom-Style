@@ -1,0 +1,1 @@
+{"groups":{"outliner":{"userBinaryKeybindings":{}}},"userBinaryKeybindings":{"16392":{"commandId":"editor.removeMarker","keybinding":"Ctrl+Backspace"},"16461":{"commandId":"workbench.toggleMarkerPanel","keybinding":"Ctrl+M"},"32955":{"commandId":"editor.zoomIn","keybinding":"Command+="},"41147":{"commandId":"editor.fitMap","keybinding":"Command+Shift+="}}}
